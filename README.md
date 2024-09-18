@@ -1,6 +1,11 @@
 # SQL
+Based on Alura's course - Introduction to SQL
 
-Based on Alura course - Introduction to SQL
-- Use the website https://sqliteonline.com/
-- Use the file tabela+fornecedores.csv
+## Setting up environment
+Use the website [SQL Lite](https://sqliteonline.com/)
+- Import file tabela+fornecedores.csv
+- Import file tabela+pedidos.csv
 - Tap import > select the file > change the "Column" option to "first-line" > tap OK
+
+## SQL Basic Commands
+
